@@ -2,11 +2,17 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl6bmlnaGthZTV4YWxvbjI1d2RuOHhzMWxiOWJuZjg1NzNtMXB6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
+</div>
+
+###
+
 <h2 data-importer="text" align="left">About Me</h2>
 
 ###
 
-<p data-importer="text" align="left">First-year Applied Mathematics and Computer Science Engineering student at **USFQ** (Ecuador 🇪🇨), on a 75% scholarship. I enjoy understanding how things actually work, from math to code.<br>I work with **Python, Pandas, Power BI, and C++**, and I'm aiming to apply **machine learning to biology and medicine**.<br>Currently building my foundations and my first projects, with a master's abroad on the horizon.</p>
+<p data-importer="text" align="left">First-year Applied Mathematics and Computer Science Engineering student at USFQ (Ecuador 🇪🇨), on a 75% scholarship. I enjoy understanding how things actually work, from math to code.<br>I work with Python, Pandas, Power BI, and C++, and I'm aiming to apply machine learning to biology and medicine.<br>Currently building my foundations and my first projects, with a master's abroad on the horizon.</p>
 
 ###
 
@@ -14,29 +20,31 @@
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<div data-importer="techs" align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="30" alt="notion logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I5eDB3cGx6OTE2bGlqZXZic29uZ3lqazZ3OXRkdThkMnl2amthbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
+<h2 data-importer="text" align="left">Social</h2>
 
 ###
 
@@ -58,6 +66,11 @@
   </a>
 </div>
 
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Izzzzyy/Izzzzyy/snake-output/snake.svg" alt="Snake animation" />
+
+###
 ###
 
 <div data-importer="border">
